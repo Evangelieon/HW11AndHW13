@@ -1,0 +1,25 @@
+nav{
+  list-style-type: space;
+  outline-style: dashed;
+  outline-color: rgb(9, 2, 15);
+  outline-width: 3px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c58ef8;
+  position: -webkit-sticky; 
+  
+}
+img{display: block;
+    margin: 0 auto;}
+ 
+label{color:blueviolet}
+h1{color: darkslateblue;
+  text-align: center;}
+h2{color: midnightblue;
+  text-align: center;}
+h3{color: purple;
+  text-align: center;}
+body{background-color: rgb(164, 239, 241);}
+#dt{color: #050105;}
+*{font-size: 25px;}
